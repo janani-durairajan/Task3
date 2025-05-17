@@ -40,12 +40,6 @@ Docker (for Prometheus)
 
 AWS/GCP/Azure CLI
 
-yaml
-Copy
-Edit
-
----
-
 This keeps it simple and to the point while covering the essentials for running the project!
 
 
